@@ -15,7 +15,7 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-2385274bd2cf80db9deac2717ac17bf1
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
+1. 你的 Telegram 用户名 = RandolphJiffy
 2. 你的主网 TON 钱包地址 = ？
 
 
