@@ -16,7 +16,7 @@ https://t.me/toneachat
 
 领奖信息收集：
 1. 你的 Telegram 用户名 = RandolphJiffy
-2. 你的主网 TON 钱包地址 = ？
+2. 你的主网 TON 钱包地址 = UQBqeb1bSWxs36ThlCqSjfdjzmE7RlZvFTwHvqvaD16-cmr0
 
 
 ## 任务 1：创建和部署一个 Tolk 合约
@@ -29,7 +29,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你部署的 Tolk 合约地址 = ？
+1. 你部署的 Tolk 合约地址 = kQA4d75r1JaZS7EwtNjEyYuLHbbzLltFlwQiCNj57I-ofKW0
 
 
 ---
